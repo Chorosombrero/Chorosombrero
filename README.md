@@ -2,8 +2,11 @@
 
 ### About me in code
 ```js
-const santiagoArguello = {
+const dev = {
+  name: "Santiago Arguello"
+  age:27
   pronouns: "he" | "him",
+  profession:"Full stack developmet"
   code: [Javascript, Typescript, HTML, CSS, SQL],
   tools: [React, Redux, Node, Styled-Components, Jest ,Npm ,JQuery,Express,Next,AngularJS,Figma,Git,Webpack ],
   }
@@ -12,10 +15,11 @@ const santiagoArguello = {
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; I'm finishing the bootcamp SoyHenry ![image](https://user-images.githubusercontent.com/106771179/215268641-613e5beb-81a7-476f-8351-502518f11ab9.png)
+  and starting new courses
+- 💼 &nbsp; 
+- 🌱 &nbsp; 
+- ✍️ &nbsp; 
 
 
 
