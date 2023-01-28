@@ -1,4 +1,4 @@
-<h2> Hi, i'm Santigo !! 💻🖥 </h2>
+<h2> Hi, I'm Santigo !! 💻🖥 </h2>
 
 
 ### About me in code
@@ -7,7 +7,7 @@ const dev = {
   name: "Santiago Arguello"
   age: 27
   pronouns: "he" | "him",
-  profession: "Full stack developmet"
+  profession: "Full stack development"
   location: "Cordoba, Argentina"
   email: "Saanti_arguello@hotmail.com"
   }
