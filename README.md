@@ -17,9 +17,9 @@ const dev = {
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I'm finishing the bootcamp SoyHenry ![image](https://user-images.githubusercontent.com/106771179/215268641-613e5beb-81a7-476f-8351-502518f11ab9.png)
+- 🎓 &nbsp; I am finishing the SoyHenry Bootcamp ![image](https://user-images.githubusercontent.com/106771179/215268641-613e5beb-81a7-476f-8351-502518f11ab9.png)
   and starting new courses
-- ✍️ &nbsp; I am specializing in developing Backend, with different technologies
+- ✍️ &nbsp; I am specializing in Backend development, with multiples technologies
 
 <br/>
 
