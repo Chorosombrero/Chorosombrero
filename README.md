@@ -5,10 +5,10 @@
 ```js
 const dev = {
   name: "Santiago Arguello",
-  age: 27
+  age: 27,
   pronouns: "he" | "him",
   profession: "Full stack developer",
-  location: "Cordoba, Argentina"
+  location: "Cordoba, Argentina",
   email: "Saanti_arguello@hotmail.com"
   }
 
