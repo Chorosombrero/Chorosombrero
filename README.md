@@ -8,8 +8,8 @@ const dev = {
   age:27
   pronouns: "he" | "him",
   profession:"Full stack developmet"
-  code: [Javascript, Typescript, HTML, CSS, SQL],
-  tools: [React, Redux, Node, Styled-Components, Jest ,Npm ,JQuery,Express,Next,AngularJS,Figma,Git,Webpack ],
+  location: "Cordoba, Argentina"
+  email: "Saanti_arguello@hotmail.com"
   }
 
 ```
