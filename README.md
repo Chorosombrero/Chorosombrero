@@ -8,9 +8,8 @@
 const dev = {
   name: "Santiago Arguello",
   age: 27,
-  pronouns: "he" | "him",
-  profession: "Full stack developer",
   location: "Cordoba, Argentina",
+  profession: "Full stack developer",
   email: "Saanti_arguello@hotmail.com"
   }
 
