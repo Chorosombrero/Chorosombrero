@@ -7,7 +7,6 @@
 ```js
 const dev = {
   name: "Santiago Arguello",
-  age: 27,
   location: "Cordoba, Argentina",
   profession: "Full stack developer",
   email: "Saanti_arguello@hotmail.com"
