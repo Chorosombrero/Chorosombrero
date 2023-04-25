@@ -21,6 +21,9 @@ const dev = {
   and starting new courses
 - ✍️ &nbsp; I am specializing in Backend development, with multiples technologies
 
+
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/saanti.arguello) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/saanti_arguello/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-arguello-00b996263/) 
 <br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
