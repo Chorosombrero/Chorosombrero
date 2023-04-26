@@ -8,8 +8,7 @@
 const dev = {
   name: "Santiago Arguello",
   location: "Cordoba, Argentina",
-  profession: "Full stack developer",
-  email: "Saanti_arguello@hotmail.com"
+  profession: "Full Stack Developer",
   }
 
 ```
