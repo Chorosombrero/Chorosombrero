@@ -16,10 +16,13 @@ const dev = {
 <br/>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I am finishing the SoyHenry Bootcamp ![image](https://user-images.githubusercontent.com/106771179/215268641-613e5beb-81a7-476f-8351-502518f11ab9.png)
-  and starting new courses
-- ✍️ &nbsp; I am specializing in Backend development, with multiples technologies
+Soy un desarrollador Full Stack con experiencia en diversas tecnologías de programación. En el frontend, he trabajado con React, Javascript, Redux, HTML, CSS y Bootstrap para crear interfaces de usuario atractivas y adaptativas. Por otro lado, en el backend, cuento con habilidades en Node.js, Express, Hapi, MongoDB y PostgreSQL para el desarrollo de servidores robustos y eficientes.
+
+Como profesional de la programación, siempre estoy en busca de nuevos desafíos y oportunidades para seguir creciendo en mi carrera. Me encanta aprender nuevas tecnologías y aplicarlas en proyectos innovadores y desafiantes.
+
+Si buscas un desarrollador Full Stack con experiencia y dispuesto a asumir nuevos desafíos, no dudes en contactarme. Estoy emocionado por trabajar en equipo para crear soluciones tecnológicas de alta calidad que satisfagan las necesidades de los usuarios. Puedes contactarme a través de mi correo electrónico: 
+
+Saanti_arguello@hotmail.com.
 
 
 
